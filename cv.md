@@ -6,7 +6,7 @@
 > I had some experience with Java, Python and C programming languages. And after this, I know that Frontend development is the most interesting for me. My goal is become a real professional developer.
 I don't have work experience, but I participated in a Hackathon and we were doing a CRM employee scheduling system. We only took 10th place, but it was my first experience and I enjoyed it very much. And also I'm studying at 21 School by Sber. This school was made from French School 42.
 My strengths are communication skills, responsibility, a great desire to develop professionally and I am always happy to help others to achieve their goals and gain new knowledge. I really appreciate the Peer to Peer system
-<!-- 
+
 ## 📫 Contact Information:
 - [Telegram](https://t.me/guinitum)
 - [Discord link](https://discordapp.com/users/635084855788437504/)
@@ -21,7 +21,7 @@ My strengths are communication skills, responsibility, a great desire to develop
 - C
 - Linux
 
-## 📕 Education
+<!-- ## 📕 Education
 - 21 school by Sber
 - KFU, ITIS, Programming Engineer (Bachelor's degree)
 - KFU, IIRSI, Programming Engineer (Master's degree) 
