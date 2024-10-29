@@ -21,7 +21,7 @@ My strengths are communication skills, responsibility, a great desire to develop
 - C
 - Linux
 
-<!-- ## 📕 Education
+## 📕 Education
 - 21 school by Sber
 - KFU, ITIS, Programming Engineer (Bachelor's degree)
 - KFU, IIRSI, Programming Engineer (Master's degree) 
@@ -55,4 +55,4 @@ function colorOf(r,g,b){
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronlnn&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
---- -->
+---
