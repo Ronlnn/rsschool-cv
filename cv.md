@@ -51,8 +51,6 @@ function colorOf(r,g,b){
 ## 🔥 Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ronlnn&theme=material-palenight&background=000000)](https://git.io/streak-stats)
 
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronlnn&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
